@@ -1,5 +1,5 @@
 This is my first python program
 
-This feature is awesome.clear
+This feature is awesome
 
-adding a random sentence here
+adding a random sentence here - dane
